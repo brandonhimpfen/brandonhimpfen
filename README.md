@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub](https://cdn.himpfen.io/badges/github/github-square-large.svg)](https://bit.ly/bh-githubsponsors) &nbsp; [![Ko-Fi](https://cdn.himpfen.io/badges/ko-fi/kofi-square-large.svg)](https://bit.ly/bh-kofi) &nbsp; [![PayPal](https://cdn.himpfen.io/badges/paypal/paypal-square-large.svg)](https://bit.ly/bh-paypal)
+[![GitHub](https://cdn.himpfen.io/badges/github/github-square-large.svg)](https://bit.ly/bh-githubsponsors) &nbsp; [![PayPal](https://cdn.himpfen.io/badges/paypal/paypal-square-large.svg)](https://bit.ly/bh-paypal)
 
 **Bitcoin (BTC)::** `17GmJoLEjDYkkfMoHpQSvR6Lb7Wt6yvRtV`
 
