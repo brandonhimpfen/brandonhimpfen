@@ -7,4 +7,6 @@
 **Ethereum (ETH):** `0x690eAD7a7615cf97957571BcFb84997C048a6C27`
 
 - **Website:** [https://www.himpfen.io/](https://www.himpfen.io/)
+- **Blog:** [https://www.himpfen.blog/](https://www.himpfen.blog/)
+
 - **Twitter:** [@brandonhimpfen](https://twitter.com/brandonhimpfen)
