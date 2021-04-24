@@ -4,8 +4,6 @@
 
 **Blog:** [https://www.himpfen.blog/](https://www.himpfen.blog/)
 
-### Social media
-
 **Twitter:** [@brandonhimpfen](https://twitter.com/brandonhimpfen)
 
 ### Donate
@@ -15,3 +13,5 @@
 **Bitcoin (BTC)::** `17GmJoLEjDYkkfMoHpQSvR6Lb7Wt6yvRtV`
 
 **Ethereum (ETH):** `0x690eAD7a7615cf97957571BcFb84997C048a6C27`
+
+![GitHub Sats](https://github-readme-stats.vercel.app/api?username=brandonhimpfen&hide=stars,issues,prs&count_private=true&theme=tokyonight) ![GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonhimpfen&layout=compact&theme=tokyonight)
