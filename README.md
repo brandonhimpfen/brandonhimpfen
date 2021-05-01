@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**Website:** [https://www.himpfen.io/](https://www.himpfen.io/)
-
-**Blog:** [https://www.himpfen.blog/](https://www.himpfen.blog/)
+**Website:** [https://www.himpfen.com/](https://www.himpfen.com/)
 
 **Twitter:** [@brandonhimpfen](https://twitter.com/brandonhimpfen)
 
