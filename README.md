@@ -2,7 +2,7 @@
 
 **Website:** [https://himpfen.com/](https://himpfen.com/)
 
-[![GitHub](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen/) &nbsp; [![Buy Me A Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://www.buymeacoffee.com/brandonhimpfen) &nbsp; [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen)
+[![GitHub](https://static.buyacoffee.net/badges/buyacoffee-flat.svg)](https://buyacoffee.net/brandon)
 
 **Bitcoin (BTC):** `17GmJoLEjDYkkfMoHpQSvR6Lb7Wt6yvRtV` <br />
 **Ethereum (ETH):** `0x690eAD7a7615cf97957571BcFb84997C048a6C27`
