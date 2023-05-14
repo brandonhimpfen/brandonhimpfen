@@ -2,6 +2,7 @@
 
 **Hello everyone! 👋**
 * Check out my website at [www.himpfen.com](https://www.himpfen.com/)
+  * Check out my blog at [desk.himpfen.com](https://desk.himpfen.com/)  
   * Looking for a list of all of my projects? Find them at [projects.himpfen.com](https://projects.himpfen.com/)  
   * Check out my travel site at [travel.himpfen.com](https://travel.himpfen.com/)
   * Check out my photography site at [photo.himpfen.com](https://photo.himpfen.com/)
