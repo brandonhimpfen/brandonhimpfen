@@ -10,10 +10,7 @@
   <a href="https://tinyurl.com/e8ymxdw3" title="Stripe"><img src="https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg" /></a>
 </p>
 
-| [Datasets](https://github.com/brandonhimpfen/datasets#readme) | [Learn](https://github.com/brandonhimpfen/learn#readme) | [Style Guides](https://github.com/brandonhimpfen/style-guides#readme) | [Cheat Sheets](https://github.com/brandonhimpfen/cheat-sheets#readme) | [Glossaries](https://github.com/brandonhimpfen/glossaries#readme) |
-|---|---|---|---|---|
+| [Tools](https://tools.himpfen.com/) | [Datasets](https://www.himpfen.com/datasets/) | [Learn](https://www.himpfen.com/learn/) | [Style Guides](https://www.himpfen.com/programming-languages-style-guides/) | [Cheat Sheets](https://www.himpfen.com/cheat-sheets/) | [Glossaries](https://www.himpfen.com/digital-glossaries/) | [Pages](https://pages.himpfen.com/) |
+|---|---|---|---|---|---|---|
 
 * Visit my website and blog at [www.himpfen.com](https://www.himpfen.com/)
-* Check out my free hosted tools at [tools.himpfen.com](https://tools.himpfen.com/)
-* Explore my projects pages at [projects.himpfen.com](https://projects.himpfen.com/)
-* Explore my independent informative pages at [pages.himpfen.com](https://pages.himpfen.com/)
