@@ -10,7 +10,8 @@
   <a href="https://tinyurl.com/e8ymxdw3" title="Stripe"><img src="https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg" /></a>
 </p>
 
-| [Tools](https://tools.himpfen.com/) | [Datasets](https://www.himpfen.com/datasets/) | [Learn](https://www.himpfen.com/learn/) | [Style Guides](https://www.himpfen.com/programming-languages-style-guides/) | [Cheat Sheets](https://www.himpfen.com/cheat-sheets/) | [Glossaries](https://www.himpfen.com/digital-glossaries/) | [Pages](https://pages.himpfen.com/) |
-|---|---|---|---|---|---|---|
+| [Tools](https://tools.himpfen.com/) | [Datasets](https://himpfen.com/datasets/) | [Learn](https://himpfen.com/learn/) | [Style Guides](https://himpfen.com/programming-languages-style-guides/) | [Glossaries](https://himpfen.com/digital-glossaries/) | [Pages](https://himpfen.com/pages/) |
+|---|---|---|---|---|---|
 
-* Visit my website and blog at [www.himpfen.com](https://www.himpfen.com/)
+* Visit my website at [himpfen.com](https://www.himpfen.com/)
+* Visit my blog on [Medium](https://brandonhimpfen.medium.com/)
