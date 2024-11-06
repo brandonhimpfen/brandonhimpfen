@@ -11,4 +11,3 @@
 * Datasets may now be found [here](https://github.com/brandondatasets).
 * Website themes may now be found [here](https://github.com/brandonthemes).
 * All GitHub-specific templates are now under one [repo](https://github.com/brandonhimpfen/github-templates).
-* All checklists are now under one [repo](https://github.com/brandonhimpfen/checklists).
