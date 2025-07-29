@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about open-source, travel tech, sol
 
 ## 🔗 Other Projects
 
-- 🌍 **[SoloTraveler.org](https://www.solotraveler.org)** – Advocacy, tips, and tools for those who travel alone.
+- 🌍 **[Solo Traveler](https://www.solotraveler.org)** – Advocacy, tips, and tools for those who travel alone.
 - 💬 **[Bold Outlook](https://www.boldoutlook.com)** – Digital marketing and web development insights.
 - ✈️ **[Travel Bloggers Network](https://www.travelbloggers.net)** – A vibrant community helping travel bloggers grow.
 
