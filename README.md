@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about open-source, travel tech, sol
 
 ### 🚀 Highlights
 
-* **[Awesome Lists](https://github.com/awesomelistsio/awesome)**: A growing collection of curated awesome lists covering programming, AI, science, sustainability, digital rights, and beyond.
+* **[Awesome](https://github.com/awesomelistsio/awesome)**: A growing collection of curated awesome lists covering programming, AI, science, sustainability, digital rights and beyond.
 
 ---
 
