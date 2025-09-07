@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm passionate about open-source, travel tech, sol
 ### 🚀 Highlights
 
 * **[Awesome](https://github.com/awesomelistsio/awesome)**: A growing collection of awesome lists covering programming, AI, science, sustainability, digital rights and beyond.
-
+* **[Flight](https://github.com/flightlang/flightlang)**: A DSL for UAV missions based on finite state machines, with unit-checked variables, deadlines and multiple codegen backends.
+  
 ---
 
 ### 📢 What's New...
@@ -22,8 +23,9 @@ Welcome to my GitHub profile! I'm passionate about open-source, travel tech, sol
 
 ## 🔗 Other Projects
 
-- **[Solo Traveler](https://www.solotraveler.org)** – Advocacy, tips, and tools for those who travel alone.
 - **[Bold Outlook](https://www.boldoutlook.com)** – Digital marketing and web development insights.
+- **[Code the North](https://www.codethenorth.ca)** – Helping Canada through open source code.
+- **[Solo Traveler](https://www.solotraveler.org)** – Advocacy, tips, and tools for those who travel alone.
 - **[Travel Bloggers Network](https://www.travelbloggers.net)** – A vibrant community helping travel bloggers grow.
 
 
