@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm Brandon</h1>
 
-Welcome! I'm a writer, developer, and founder building open-source tools, datasets, and resources across travel, technology, and digital media. I care deeply about open knowledge, solo travel advocacy, and creating software and content that empower digital nomads, developers, and curious minds.
+Welcome! I'm a writer, developer, and founder building open source tools, datasets, and public resources across travel, technology, and digital media.
+
+My work centers on **open knowledge**, **solo travel advocacy**, and creating software and content that help people learn, build and explore.
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; 
@@ -11,49 +13,60 @@ Welcome! I'm a writer, developer, and founder building open-source tools, datase
 
 ## 🚀 Highlights
 
-- **[Awesome](https://github.com/awesomelistsio/awesome)** — A growing collection of curated lists covering programming, AI, science, sustainability, digital rights, and more.  
-- **[FlightLang](https://github.com/flightlang/flightlang)** — A domain-specific language for UAV missions, featuring finite state machines, unit-checked variables, deadlines, and multiple code generation targets.
+- **[Awesome](https://github.com/awesomelistsio/awesome)** — A growing collection of curated lists across programming, AI, science, sustainability, digital rights and more.
+- **[Awesome Learn](https://github.com/brandonhimpfen/awesome-learn)** — Structured learning paths from beginner to advanced, designed for clarity and progression.
+- **[FlightLang](https://github.com/flightlang/flightlang)** — A domain-specific language for UAV missions with finite state machines, unit-checked variables, deadlines and multi-target code generation.
 
-## 🆕 Recently Added
+## 🌐 Explore My Work
 
-- **[Awesome Learn](https://github.com/awesomelearnio/awesome)** — Structured, beginner-to-advanced learning paths for technical topics, built for clarity and progression.
+### Tools & Utilities
+- **[Brand Colors](https://brand-colors.himpfen.com/)** — Browse brand color palettes from well-known companies.  
+- **[CSS Gradients](https://css-gradients.himpfen.com/)** — A curated gradient library for interfaces and digital products.  
+- **[Color Palettes](https://colors.himpfen.com/)** — Curated primary and secondary color pairs for modern design systems.  
+- **[Hosted Tools](https://tools.himpfen.com/)** — Travel intelligence tools, practical utilities and quick helpers for everyday use.
+
+### Reference & Knowledge
+- **[Data Pages](https://pages.himpfen.com/)** — Structured reference pages across travel, technology and digital topics.  
+- **[Knowledge Base](https://kb.himpfen.com/)** — Organized knowledge across travel, AI, crypto, programming and digital nomadism.
+
+### Learning & Libraries
+- **[Office AI Playbook](https://playbook.himpfen.com/)** — A practical dashboard for learning and applying AI at work.  
+- **[Prompts](https://prompts.himpfen.com/)** — A structured library of copy-ready prompt templates for real-world use.
+
+## 🧭 Current Focus
+
+- Expanding curated **open knowledge ecosystems**.  
+- Building **travel intelligence tools and datasets**.  
+- Writing about **AI, search and digital infrastructure**.
+
+## 💻 Other Code Profiles
+
+- **[WordPress.org](https://profiles.wordpress.org/bhimpfen)** — Themes, plugins and translations.  
+- **[npm](https://www.npmjs.com/~brandonhimpfen)** — Developer tools and packages.  
+- **[CodePen](https://codepen.io/brandonhimpfen)** — UI components and front-end experiments.  
 
 ## 📚 Writing & Content
 
 I create:
 
-- Technical writing on AI, programming, and web development  
-- Solo travel guides, insights, and research  
-- Weekly newsletters across travel, tech, and content strategy  
-- Books, long-form guides, and open educational resources
+- Technical writing on AI, programming and web development.  
+- Solo travel guides, insights and research.  
+- Weekly newsletters across travel, tech and content strategy.  
+- Books, long-form guides and open educational resources.  
 
-My work spans technology, digital media, travel, governance, and open knowledge.
+My work spans technology, digital media, travel, governance and open knowledge.
 
-## 🛠️ Tech & Tools I Use
+## 🛠️ Tech & Tools
 
-- **Languages:** Python, Go, JavaScript, PHP, HTML/CSS  
-- **Frameworks:** Bootstrap, Tailwind, Jekyll, WordPress  
-- **Focus Areas:** AI, open data, datasets, CLI tools, web development, documentation  
-- **Ecosystems:** GitHub Actions, static sites, open-source licensing, API design
+- **Languages:** Python, Go, JavaScript, PHP, HTML/CSS.  
+- **Frameworks:** Bootstrap, Tailwind, Jekyll, WordPress.  
+- **Focus Areas:** AI, open data, datasets, CLI tools, web development, documentation.  
+- **Ecosystems:** GitHub Actions, static sites, API design, open source licensing.  
 
 ## 🌱 Philosophy
 
-I believe in **open knowledge**, **accessible tools**, **clear documentation**, and **public resources that empower others**.  
-Everything I build is crafted to be transparent, reusable, and community-focused.
+I believe in **open knowledge**, **accessible tools**, **clear documentation** and **public resources that empower others**.
 
-## 💻 Other Code Profiles
+Everything I build is designed to be transparent, reusable and community-focused.
 
-- **[WordPress.org](https://profiles.wordpress.org/bhimpfen)** — Themes, plugins, and translation contributions  
-- **[npmjs.com](https://www.npmjs.com/~brandonhimpfen)** — Developer tools and published packages  
-- **[CodePen](https://codepen.io/brandonhimpfen)** — UI components and front-end experiments
-
-## 🔗 Other Projects
-
-- **[Bold Outlook](https://www.boldoutlook.com)** — Digital marketing and web development insights  
-- **[Code the North](https://www.codethenorth.ca)** — Open-source code for Canada  
-- **[Solo Traveler](https://www.solotraveler.org)** — Advocacy, guides, and tools for solo travelers  
-- **[Travel Bloggers Network](https://www.travelbloggers.net)** — A community supporting travel bloggers
-
-<br>
-
-Thanks for visiting — feel free to explore, contribute, or just say hi! 💚
+Thanks for visiting. Feel free to explore my projects, follow along or contribute. 💚
