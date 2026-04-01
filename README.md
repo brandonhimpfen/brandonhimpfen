@@ -13,7 +13,7 @@ My work centers on **open knowledge**, **solo travel advocacy**, and creating so
 
 ## 🚀 Highlights
 
-- **[Awesome](https://github.com/awesomelistsio/awesome)** — A growing collection of curated lists across programming, AI, science, sustainability, digital rights and more.
+- **[Awesome](https://github.com/brandonhimpfen/awesome-lists)** — A growing collection of curated lists across programming, AI, science, sustainability, digital rights and more.
 - **[Awesome Learn](https://github.com/brandonhimpfen/awesome-learn)** — Structured learning paths from beginner to advanced, designed for clarity and progression.
 - **[FlightLang](https://github.com/flightlang/flightlang)** — A domain-specific language for UAV missions with finite state machines, unit-checked variables, deadlines and multi-target code generation.
 
