@@ -4,12 +4,10 @@ Welcome! I'm a writer, developer, and founder building open source tools, datase
 
 My work centers on **open knowledge**, **solo travel advocacy**, and creating software and content that help people learn, build and explore.
 
-[![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
+[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
+[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; 
-[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen) &nbsp; 
-[![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://donate.stripe.com/cN2eYF2Ka2GwfgQ3cd) &nbsp; 
-[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/brandonhimpfen) &nbsp; 
-[![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/himpfen)
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen)
 
 ## 🚀 Highlights
 
