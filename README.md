@@ -15,6 +15,8 @@ My work centers on **open knowledge**, **solo travel advocacy**, and creating sy
 - **[Awesome Learn](https://github.com/brandonhimpfen/awesome-learn)** — Structured learning paths designed for clarity and progression.
 - **[Awesome Travel](https://github.com/brandonhimpfen/awesome-travel)** — Curated awesome lists for travelers, digital nomads, and global explorers.
 - **[FlightLang](https://github.com/flightlang/flightlang)** — A domain-specific language for UAV missions with finite state machines, unit-checked variables, deadlines, and multi-target code generation.
+- **[modelc](https://github.com/modelc-systems/modelc)** — A CLI and specification for packaging AI models as portable, inspectable containers with defined interfaces and reproducible execution.
+- **[SynapseLang](https://github.com/synapselang/synapselang)** — A domain-specific programming language for AI, tensors, and differentiable programming.
 
 ## 🔍 How to Navigate My Work
 
