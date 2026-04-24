@@ -34,6 +34,8 @@ My work centers on **open knowledge**, **solo travel advocacy**, and creating sy
 
 - **[WordPress.org](https://profiles.wordpress.org/bhimpfen)** — Themes, plugins, and translations  
 - **[npm](https://www.npmjs.com/~brandonhimpfen)** — Developer tools and packages  
+- **[PyPI](https://pypi.org/user/brandonhimpfen/)** — Python packages and libraries  
+- **[GitHub Gists](https://gist.github.com/brandonhimpfen)** — Code snippets, utilities, and references  
 - **[CodePen](https://codepen.io/brandonhimpfen)** — UI components and front-end experiments  
 
 ## 📚 Writing & Content
