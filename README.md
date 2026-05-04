@@ -21,7 +21,7 @@ My work centers on **open knowledge**, **solo travel advocacy**, and creating sy
 ## 🔍 How to Navigate My Work
 
 - Explore the full ecosystem through **https://www.brandonhimpfen.com/**  
-- Use this profile to discover key repositories and projects  
+- Use this [repo](https://github.com/brandonhimpfen/homepage) to discover key repositories and projects
 - Follow my writing for deeper analysis, systems thinking, and context  
 
 ## 🧭 Current Focus
