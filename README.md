@@ -20,6 +20,7 @@ My work centers on **open knowledge**, **solo travel advocacy**, and creating sy
 - **[modelc](https://github.com/modelc-systems/modelc)** — A CLI and specification for packaging AI models as portable, inspectable containers with defined interfaces and reproducible execution.
 - **[Nexora](https://github.com/brandonhimpfen/nexora)** — A small, inspectable tensor and automatic differentiation framework for Python.
 - **[ProvenanceDB](https://github.com/provenancedb/provenancedb)** — A provenance-first knowledge database designed for humans and AI systems.
+- **[ResourceRank](https://github.com/brandonhimpfen/resourcerank)** — A structured review tool for evaluating whether a submitted resource belongs in a curated collection.
 - **[SynapseLang](https://github.com/synapselang/synapselang)** — A domain-specific programming language for AI, tensors, and differentiable programming.
 
 ## 🔍 How to Navigate My Work
