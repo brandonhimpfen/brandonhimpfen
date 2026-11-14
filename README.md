@@ -12,8 +12,7 @@ My work centers on **open knowledge**, **solo travel advocacy**, and creating sy
 
 ## 🚀 Highlights
 
-- **[Awesome](https://github.com/brandonhimpfen/awesome-lists)** — Curated lists across programming, AI, science, sustainability, and digital rights.
-- **[Awesome Travel](https://github.com/brandonhimpfen/awesome-travel)** — Curated awesome lists for travelers, digital nomads, and global explorers.
+- **[Awesome Lists](https://github.com/brandonhimpfen/awesome-lists)** — Curated lists across programming, AI, science, sustainability, and digital rights.
 - **[CraftNotes](https://github.com/craftnotes/craftnotes)** — Structured learning paths designed for clarity and progression.
 - **[FlightLang](https://github.com/flightlang/flightlang)** — A domain-specific language for UAV missions with finite state machines, unit-checked variables, deadlines, and multi-target code generation.
 - **[Lattice](https://github.com/brandonhimpfen/lattice)** — A lightweight, provider-neutral Python framework for working with large language models.
