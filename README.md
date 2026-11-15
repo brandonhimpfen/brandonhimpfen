@@ -16,6 +16,7 @@ My work centers on **open knowledge**, **solo travel advocacy**, and creating sy
 - **[CraftNotes](https://github.com/craftnotes/craftnotes)** — Structured learning paths designed for clarity and progression.
 - **[FlightLang](https://github.com/flightlang/flightlang)** — A domain-specific language for UAV missions with finite state machines, unit-checked variables, deadlines, and multi-target code generation.
 - **[Lattice](https://github.com/brandonhimpfen/lattice)** — A lightweight, provider-neutral Python framework for working with large language models.
+- **[Meala](https://meala.dev/)** — Open-source multi-user flight log database & telemetry platform.
 - **[modelc](https://github.com/modelc-systems/modelc)** — A CLI and specification for packaging AI models as portable, inspectable containers with defined interfaces and reproducible execution.
 - **[Nexora](https://github.com/brandonhimpfen/nexora)** — A small, inspectable tensor and automatic differentiation framework for Python.
 - **[ProvenanceDB](https://github.com/provenancedb/provenancedb)** — A provenance-first knowledge database designed for humans and AI systems.
