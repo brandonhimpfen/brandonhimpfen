@@ -13,6 +13,7 @@ My work centers on **open knowledge**, **solo travel advocacy**, and creating sy
 ## 🚀 Highlights
 
 - **[Awesome Lists](https://github.com/awelist/awesome)** — Curated lists across programming, AI, science, sustainability, and digital rights.
+- **[Calm Prompts](https://calmprompts.com)** — Reusable prompts in a calmer, cleaner workspace.
 - **[CraftNotes](https://github.com/craftnotes/craftnotes)** — Structured learning paths designed for clarity and progression.
 - **[FlightLang](https://github.com/flightlang/flightlang)** — A domain-specific language for UAV missions with finite state machines, unit-checked variables, deadlines, and multi-target code generation.
 - **[Lattice](https://github.com/aetherinstitute/lattice)** — A lightweight, provider-neutral Python framework for working with large language models.
@@ -20,6 +21,7 @@ My work centers on **open knowledge**, **solo travel advocacy**, and creating sy
 - **[Meala](https://meala.dev/)** — Open-source multi-user flight log database & telemetry platform.
 - **[modelc](https://github.com/modelc-systems/modelc)** — A CLI and specification for packaging AI models as portable, inspectable containers with defined interfaces and reproducible execution.
 - **[Nexora](https://github.com/quantainstitute/nexora)** — A small, inspectable tensor and automatic differentiation framework for Python.
+- **[Office AI Playbook](https://officeaiplaybook.com)** — A calm handbook for practical AI at work.
 - **[ProvenanceDB](https://github.com/provenancedb/provenancedb)** — A provenance-first knowledge database designed for humans and AI systems.
 - **[ResourceRank](https://github.com/resourcerank/resourcerank)** — A structured review tool for evaluating whether a submitted resource belongs in a curated collection.
 - **[SynapseLang](https://github.com/synapselang/synapselang)** — A domain-specific programming language for AI, tensors, and differentiable programming.
